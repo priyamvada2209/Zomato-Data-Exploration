@@ -27,8 +27,6 @@ Last purchase before becoming a Gold member.
 
 Total spend before becoming a Gold member.
 
-[Question skipped – no Q9 in provided code.]
-
 Zomato points earned in the first year of Gold membership.
 
 Ranking of transactions by customer.
